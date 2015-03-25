@@ -1,0 +1,25 @@
+/* All custom CSS written in here */
+
+
+.headernav {
+	width: 100%;
+	height: 15vh;
+	background-color: #040707;
+	float:top;
+
+}
+
+.delco-panels {
+	height: 200px;
+}
+
+.large-display {
+   width: 100%;
+   height: 85vh;
+}
+
+.sub-page-header {
+	text-align:center;
+	color: #484848;
+	font-family: helvetica;
+}
